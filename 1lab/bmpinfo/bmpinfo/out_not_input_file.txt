@@ -1,0 +1,1 @@
+Error, enter the argumets: <input file> <output file>

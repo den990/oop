@@ -1,0 +1,6 @@
+ball - мяч
+cat - кошка
+football - футбол
+hello - привет
+space - космос
+world - мир
